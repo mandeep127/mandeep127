@@ -40,4 +40,4 @@
 </ul>
 
 <h2>🎨 Favorite GIF</h2>
-<img src="https://media.giphy.com/media/26xB2ttftZggIPiL2/giphy.gif" alt="Coding GIF"/>
+<img src="[https://media.giphy.com/media/26xB2ttftZggIPiL2/giphy.gif](https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif?cid=790b7611bbbfv3xvr4he4r2vu60jtqltxovarva8tob2pjmy&ep=v1_gifs_search&rid=giphy.gif" alt="Coding GIF"/>
